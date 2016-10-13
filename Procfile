@@ -1,1 +1,1 @@
-web: gunicorn hw1: --log-file -
+web: gunicorn hw1 --log-file -
